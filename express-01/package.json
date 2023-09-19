@@ -4,7 +4,7 @@
   "description": "Projeto Node + Express (minimalista)",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": ">=6.9"
   },
   "scripts": {
     "start": "node index.js",
